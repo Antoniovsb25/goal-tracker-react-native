@@ -1,5 +1,5 @@
 # To do list using react native
-a basic to do list to practice react native, state management, styling and so on.
+a basic to do list to practice react native, state management, styling and it's differences from React for the web.
 
 ### start the project
 download the repository and run `npm start` at your terminal.
